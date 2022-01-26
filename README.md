@@ -1,2 +1,2 @@
 # Ask
-Ask anything 
+Ask anything by clicking issues and posting your Question or anything!!
